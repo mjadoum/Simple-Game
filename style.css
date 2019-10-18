@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+
+}
+.body{
+  margin-top: 3%;
+}
+.dich1{
+  font-family: 'Fascinate Inline', sans-serif;
+  font-size: 2rem;
+}
+.lets{
+  font-size: 3.3rem!important;
+  font-family: 'Fascinate Inline', sans-serif!important;
+}
+.btnh1{
+  font-family: 'Fascinate Inline', sans-serif;
+  font-size: 2rem !important;
+}
+.display-4{
+  font-size:2.5rem !important;
+}
+
+img{
+  width:230px;
+}
+@media (min-width:600px) {
+  body{
+    margin: 0;
+  }
+  .row2{
+    margin-top: 3%;
+  }
+  .btnh1{
+    font-family: 'Fascinate Inline', sans-serif;
+    font-size: 1.5rem !important;
+    margin-left: 3%!important;
+  }
+}
